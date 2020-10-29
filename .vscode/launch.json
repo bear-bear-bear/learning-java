@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Circle",
+            "request": "launch",
+            "mainClass": "ex1.Circle",
+            "projectName": "learning-java_11ddf6d3"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}",
